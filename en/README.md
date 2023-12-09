@@ -120,10 +120,18 @@ Its authors are:
 
 ### Essentials
 
+- This document has a double _home_:
+  - https://cryptpad.fr/code/#/3/code/view/f01f7d85c02a35c6eb55661f331ffd0c/
+  - <https://github.com/aoloe/scribus-manual-evaluating>
 - Everybody can read this document in its latest form.
-- If you want to edit the document:
-  - Create an account in this (HedgeDoc) platform.
-  - Ask in the Scribus forums to become a contributor and post there your HedgeDoc username.
+- If you want to edit this document:
+  - On CryptPad:
+    - Create an account on PryptPad.
+    - Ask in the Scribus community to become a contributor and post there your HedgeDoc username.
+  - With Git:
+    - Fork <https://github.com/aoloe/scribus-manual-evaluating>,
+    - make your changes,
+    - trigger a merge request.
 - The goal of this document is
   - to convey a rough understanding about Scribus,
   - to be as short as possible,
