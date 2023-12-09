@@ -23,7 +23,7 @@ Just one last remark, before starting: this document does not teach how to effic
 Scribus is a Desktop Publishing (DTP) application which lets you create professional page layouts for PDF (Portable Document Format) files.
 
 ![This is what Scribus looks like](what-is-scribus.png)
-<!-- <media-tag src="https://files.cryptpad.fr/blob/dd/dddf90c51e3f77c23e2f95a6d942b526b462a84dc44f05dc" data-crypto-key="cryptpad:o1LB5WBGnCKDn2rnn2eh+S+TW03XRDQukQzvWQxlbvQ=" file="what-is-scribus.png"></media-tag> -->
+<!-- <media-tag src="https://files.cryptpad.fr/blob/dd/dddf90c51e3f77c23e2f95a6d942b526b462a84dc44f05dc" data-crypto-key="cryptpad:o1LB5WBGnCKDn2rnn2eh+S+TW03XRDQukQzvWQxlbvQ="></media-tag> -->
 
 If you're unsure about what Desktop Publishing means, Wikipedia has an [exhaustive page about it](https://en.wikipedia.org/wiki/Desktop_publishing).  
 Spoiler: Scribus is not a good fit for [typical Word Processor tasks](https://en.wikipedia.org/wiki/Word_processor), on the contrary, it can be the solution when Word Processor Programs are not a good fit.
@@ -53,8 +53,6 @@ You can also use it for producing PDFs that will be available electronically, bu
 It has a feature-rich interface that lets you create professional-quality output with print functionality that includes support for CMYK and spot colors, color separation, ICC profiles, and printer marks.
 
 ## How to get Scribus?
-
-- Which version of Scribus to use.
 
 Scribus is completely free -- no trial period and no adverts -- and distributed under the GNU GPL license.
 
