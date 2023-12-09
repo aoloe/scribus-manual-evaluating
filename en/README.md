@@ -108,6 +108,16 @@ TODO: add a small screencast of the last step?
 - Adding page numbers
 - Producing a PDF
 
+## Aknowledgments
+
+This document is published under a [Creative Common Attribution Share Alike](https://creativecommons.org/licenses/by-sa/4.0/) ([CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)) license.
+
+Its authors are:
+
+- Ale Rimoldi
+
+![CC-BY-SA](cc-by-sa.png)
+
 ## Contribute to this tutorial
 
 ### Essentials
