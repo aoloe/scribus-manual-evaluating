@@ -22,7 +22,7 @@ Just one last remark, before starting: this document does not teach how to effic
 
 Scribus is a Desktop Publishing (DTP) application which lets you create professional page layouts for PDF (Portable Document Format) files.
 
-[This is what Scribus looks like](what-is-scribus.png)
+![This is what Scribus looks like](what-is-scribus.png)
 <!-- <media-tag src="https://files.cryptpad.fr/blob/dd/dddf90c51e3f77c23e2f95a6d942b526b462a84dc44f05dc" data-crypto-key="cryptpad:o1LB5WBGnCKDn2rnn2eh+S+TW03XRDQukQzvWQxlbvQ=" file="what-is-scribus.png"></media-tag> -->
 
 If you're unsure about what Desktop Publishing means, Wikipedia has an [exhaustive page about it](https://en.wikipedia.org/wiki/Desktop_publishing).  
@@ -38,7 +38,7 @@ Typically, ith Scribus you can create
 - books,
 - magazines
 
-[CoderDojo Zürich, Learning Cards](coderdojo-jump.pngwhat-is-scribus.png)
+![CoderDojo Zürich, Learning Cards](coderdojo-jump.pngwhat-is-scribus.png)
 <!-- <media-tag src="https://files.cryptpad.fr/blob/be/be7d954659b4954a10fa958a87e2c7733eecd44b4c63ffa4" data-crypto-key="cryptpad:8Nj2SMQTMNrC38nD8yC7KKRmBSLGEfLIcMZQyOqdevM="></media-tag> -->
 
 TODO: add photos of document created with Scribus:
