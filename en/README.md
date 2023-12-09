@@ -38,7 +38,7 @@ Typically, ith Scribus you can create
 - books,
 - magazines
 
-![CoderDojo Zürich, Learning Cards](coderdojo-jump.pngwhat-is-scribus.png)
+![CoderDojo Zürich, Learning Cards](coderdojo-jump.png)
 <!-- <media-tag src="https://files.cryptpad.fr/blob/be/be7d954659b4954a10fa958a87e2c7733eecd44b4c63ffa4" data-crypto-key="cryptpad:8Nj2SMQTMNrC38nD8yC7KKRmBSLGEfLIcMZQyOqdevM="></media-tag> -->
 
 TODO: add photos of document created with Scribus:
