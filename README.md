@@ -11,7 +11,7 @@ If you want to contribute, please read <CONTRIBUTE.md>.
 Creating the Epub with pandoc:
 
 ```
-pandoc README.md --metadata-file=pandoc-epub/metadata.yaml --css=pandoc-epub/epub.css -o out/evaluating-scribus.epub
+pandoc README.md --metadata-file=pandoc-epub/metadata.yaml --css=pandoc-epub/epub.css --shift-heading-level-by=-1 -o out/evaluating-scribus.epub && mupdf out/evaluating-scribus.epub
 ```
 
 Notes:
