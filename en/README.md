@@ -1,6 +1,6 @@
 # Evaluating Scribus
 
-## Introduction {.special}
+## Introduction
 
 TODO: We might need a better title for the document  
 It should convey that it's not about learning to use Scribus, but about checking if Scribus fits the reader's needs.
