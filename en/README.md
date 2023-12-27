@@ -119,6 +119,8 @@ Scribus is about control:
 
 - Docking the properties and content palettes to the right
 - Moving the Tools toolbar to the left (and maybe hide the other palettes)
+- Media keys vs. fn keys:
+  - [How to use the function keys on your Mac](https://support.apple.com/en-us/102439)
 
 ### Working with frames
 
