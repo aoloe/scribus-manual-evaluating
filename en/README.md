@@ -71,14 +71,15 @@ Scribus is completely free -- no trial period and no ads -- and distributed unde
 
 You can get it from the project website: <https://www.scribus.net/downloads>
 
-Here are the direct links to the most popular downloads for the current version of Scribus (Scribus 1.5.8, from Sourceforge):
+Here are the direct links to the most popular downloads for the current version of Scribus (Scribus 1.6.4, from Sourceforge):
 
-- [Scribus 1.5.8 for Windows 64 bit](https://sourceforge.net/projects/scribus/files/scribus-devel/1.5.8/scribus-1.5.8-windows-x64.exe/download)
-- [Scribus 1.5.8 for Mac OS](https://sourceforge.net/projects/scribus/files/scribus-devel/1.5.8/scribus-1.5.8.dmg/download)
-- [Scribus 1.5.8 Appimage for Linux](https://sourceforge.net/projects/scribus/files/scribus-devel/1.5.8/scribus-1.5.8-linux-x86_64.AppImage/download)
+
+- [Scribus 1.6 for Windows 64 bit](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4-windows-x64.exe)
+- [Scribus 1.6 for Mac OS](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4.dmg) / [arm](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4-arm64.dmg) / 
+- [Scribus 1.6 Appimage for Linux](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4-linux-x86_64.AppImage)
 
 The Scribus team uses Sourceforce to distribute the releases of Scribus.  
-On Sourceforge  you can find a few [more options](http://sourceforge.net/projects/scribus/files/scribus-devel/1.5.8/) and [older versions](http://sourceforge.net/projects/scribus/files).
+On Sourceforge  you can find a few [more options](https://sourceforge.net/projects/scribus/files/scribus/1.6.4/) and [older versions](http://sourceforge.net/projects/scribus/files).
 
 ## How to install Scribus
 
@@ -86,7 +87,7 @@ On Sourceforge  you can find a few [more options](http://sourceforge.net/project
 
 For most distributions, Scribus 1.5.8 is in the official repositories: Just use the distribution's package manager to get the latest version of Scribus.
 
-If you can't find it there, you can try the [Scribus Appimage](https://sourceforge.net/projects/scribus/files/scribus-devel/1.5.8/) from Sourceforge.
+If you can't find it there, you can try the [Scribus Appimage](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4-linux-x86_64.AppImage) from Sourceforge.
 
 ### Windows
 
