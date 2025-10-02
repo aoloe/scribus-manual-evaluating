@@ -75,7 +75,7 @@ Here are the direct links to the most popular downloads for the current version 
 
 
 - [Scribus 1.6 for Windows 64 bit](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4-windows-x64.exe)
-- [Scribus 1.6 for Mac OS](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4.dmg) / [arm](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4-arm64.dmg) / 
+- [Scribus 1.6 for Mac OS](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4.dmg) / [arm64](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4-arm64.dmg)
 - [Scribus 1.6 Appimage for Linux](https://downloads.sourceforge.net/project/scribus/scribus/1.6.4/scribus-1.6.4-linux-x86_64.AppImage)
 
 The Scribus team uses Sourceforce to distribute the releases of Scribus.  
